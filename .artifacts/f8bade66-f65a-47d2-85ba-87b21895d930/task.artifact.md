@@ -1,0 +1,5 @@
+- [ ] Configure `.gitignore` to protect signing secrets
+- [ ] Initialize Git repository
+- [ ] Create a professional `README.md`
+- [ ] Add files and create initial commit
+- [ ] Set remote and push to GitHub

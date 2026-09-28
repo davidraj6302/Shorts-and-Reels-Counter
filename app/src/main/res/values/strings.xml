@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reels &amp; Shorts Counter</string>
+    <string name="accessibility_service_description">Tracks your scrolling habits on Instagram, YouTube, and Facebook to help you manage your time.</string>
+    <string name="notification_channel_name">Limit Reminders</string>
+    <string name="notification_channel_desc">Alerts you when you reach your daily usage limits.</string>
+    <string name="limit_reached_title">Daily Limit Reached!</string>
+    <string name="limit_reached_msg_insta">You\'ve reached your daily Instagram Reels limit.</string>
+    <string name="limit_reached_msg_yt">You\'ve reached your daily YouTube Shorts limit.</string>
+    <string name="limit_reached_msg_fb">You\'ve reached your daily Facebook Reels limit.</string>
+    <string name="btn_dismiss">Dismiss</string>
+    <string name="btn_continue">Continue Tracking</string>
+</resources>
